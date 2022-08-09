@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    /* Ширина */
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 38px 0px 36px 0px;
+}
+.nav-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    text-decoration: none;
+    margin-right: 40px;
+}
+.subtitle{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.title1{
+    padding-top: 18px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+.title2{
+    padding-top: 27px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #666666;
+}
+.title3{
+    padding-top: 28px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.main-container{
+    display: flex;
+}
+.card-conteiner{
+    margin-left: 10px;
+}
+.subtitle1{
+    padding-top: 24px;
+}
+.title4{
+    padding-top: 18px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.title5{
+    padding-top: 15px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.text{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+    padding-top: 90px;
+    padding-bottom: 5px;
+    padding-left: 250px;
+}
+.text1{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999999;
+}
+.btn1{
+    width: 205px;
+    height: 54px;
+    border-color: #000000;
+    background-color: #FFFFFF;
+    margin-left: 50px;
+}
+.txtbtn1{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}  
+.button-container{
+padding-top: 65px;
+margin-left: 498px;
+margin-right: 497px;
+}
+.groupcard{
+    padding: 25px 10px 25px 0px;
+}
+.footer{
+    background-color: #141414;
+}
+.p1{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 0px 130px 15px 0px;
+    
+}
+.p2{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #666666;
+
+}
+.btn6{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 18px 24px;
+    background-color: #FFFFFF;
+    border: none;
+    margin-left: 150px;
+    color: #666666;
+}
